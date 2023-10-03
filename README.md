@@ -2,9 +2,6 @@
 
 Group Members
 - Holmes
-- mark
 - Mix
 - Raf
-- Elon
-- Bill
-- Mine
+- Xie
